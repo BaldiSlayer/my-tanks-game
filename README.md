@@ -7,3 +7,5 @@
 Большинство файлов - файлы с кодом
 
 Файл `Settings.txt` хранит в себе настройки скорости для каждого из видов танков
+
+![Screenshot_1](https://user-images.githubusercontent.com/77489413/216723672-af73ef79-dd1a-43bf-9a16-4efd995b1cda.png)
